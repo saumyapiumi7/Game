@@ -1,0 +1,19 @@
+.boy {
+    height: 250px;
+    margin-top: 480px;
+    position: absolute;
+}
+
+.background {
+    background-image: url("background.png");
+    background-size: 100%;
+    overflow: hidden;
+}
+
+.score {
+    font-size: 50px;
+    font-weight: "bold";
+    margin-left: 30px;
+    margin-top: 20px;
+    position: absolute;
+}
